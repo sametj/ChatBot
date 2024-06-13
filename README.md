@@ -5,7 +5,8 @@
 - Meme generator
 - quotes generator
 
-![image](https://github.com/sametj/ChatBot/assets/102891262/94d53cdf-56af-4d91-817c-bd8f139c8fd1)
+![image](https://github.com/sametj/ChatBot/assets/102891262/f7ac1e54-6f28-42a1-ba05-924f05ab5da7)
+
 
 
 
