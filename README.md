@@ -13,7 +13,7 @@
 - learned how to use pip
 - started using bash as my default terminal in place of powershell
 
-  Future updates
+## Future updates
   - Implement  the / command for the bot
  
 
